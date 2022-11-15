@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarraghOReilly
-- 👀 I’m interested in coding, muic and anime
+- 👀 I’m interested in coding and music
 - 🌱 I’m currently learning computer programming in DCU
 - 💞️ I’m looking to collaborate on 
 - 📫 You can reach me at oreilly.darragh2@mail.dcu.ie
